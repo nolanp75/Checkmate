@@ -864,7 +864,7 @@ const CreateMonitorPage = () => {
 																	channelId: "",
 																});
 															}}
-															aria-label="Remove escalation notification"
+															aria-label={t("pages.createMonitor.form.escalation.option.channels.remove")}
 														>
 															<Trash2 size={16} />
 														</IconButton>

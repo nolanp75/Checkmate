@@ -558,7 +558,8 @@
 							"label": "Escalate after (minutes)"
 						},
 						"channels": {
-							"label": "Escalation notification channels"
+							"label": "Escalation notification channels",
+							"remove": "Remove escalation notification"
 						}
 					}
 				},
